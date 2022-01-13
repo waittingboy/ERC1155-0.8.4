@@ -1,0 +1,6 @@
+通过truffle migrate部署验证成功的合约
+Network : Rinkeby    Solc : 0.8.4
+Token：MyGallery(MCO)
+部署账户：0xa641FBBC5bcD92e3B577899700e2D8F70D372C1d
+合约1地址：0x4745B57932f699dCF950C6112Ef0839764B757E6
+合约2地址：0xc0600Ed34F252884B172Ae0057FF3B29a4fD9a7e
